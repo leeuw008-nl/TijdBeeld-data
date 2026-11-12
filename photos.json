@@ -12,6 +12,18 @@
       "cameraLat": 52.518263,
       "cameraLng": 6.421917,
       "imageWidthMeters": 3
+    },
+    {
+      "id": "ca43a721-846d-4ecd-842e-17c0b1e5503b",
+      "title": "1992 - Parkeerplaats bij De Schuren Stee",
+      "imageUrl": "https://oudommen-production.s3.eu-central-1.amazonaws.com/renditions/MX0001-2/large.jpg",
+      "source": "",
+      "sourceId": "",
+      "objectLat": 52.52187325983935,
+      "objectLng": 6.424596045673977,
+      "cameraLat": 52.521910679576486,
+      "cameraLng": 6.4245342183885255,
+      "imageWidthMeters": 3
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "photos": [
+    {
+      "id": "kantongerechtsgebouw-1910",
+      "title": "1910 - Kantongerechtsgebouw",
+      "imageUrl": "https://oudommen-production.s3.eu-central-1.amazonaws.com/renditions/IO0042d1/large.jpg",
+      "source": "OudOmmen Beeldbank",
+      "sourceId": "IO0042d1",
+      "objectLat": 52.518349,
+      "objectLng": 6.420889,
+      "cameraLat": 52.518263,
+      "cameraLng": 6.421917,
+      "imageWidthMeters": 3
+    }
+  ]
+}
